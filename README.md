@@ -1,7 +1,7 @@
 <!-- Profile repo: bal16/bal16 -->
 
-<h1 align="center">Hi 👋, I'm bal16</h1>
-<p align="center">Full-stack developer who loves experimenting with new things 🚀</p>
+<h1 align="center">Hi, I'm bal16</h1>
+<p align="center">Full-stack developer who loves experimenting with new things.</p>
 
 <p align="center">
   <img
@@ -10,7 +10,7 @@
   />
 </p>
 
-## ⚡ GitHub Stats & Tech Stack
+## GitHub Stats & Tech Stack
 
 <!-- Score = the rank circle on the stats card.
      Top langs auto-crawls languages from all my public repos. -->
@@ -37,7 +37,7 @@
   </picture>
 </p>
 
-## 🔥 Streak
+## Streak
 
 <p align="center">
   <picture>
@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <i>Check out my repositories below 👇</i>
+  <i>Check out my repositories below.</i>
 </p>
