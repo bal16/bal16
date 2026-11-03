@@ -75,8 +75,10 @@
   </picture>
 </p>
 
-## Streak
+## Streak & Productive Hours
 
+<!-- Streak: daily contribution run. Productive hours: commit times in Asia/Jakarta.
+     Natural productive-time card is 340x200 — fixed height keeps it compact -->
 <p align="center">
   <picture>
     <source
@@ -85,7 +87,17 @@
     />
     <img
       src="https://streak-stats.demolab.com/?user=bal16&hide_border=true"
-      alt="Contribution streak" height="180"
+      alt="Contribution streak" height="170"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bal16&theme=github_dark&timeZone=Asia/Jakarta"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bal16&theme=github&timeZone=Asia/Jakarta"
+      alt="Productive hour distribution" height="170"
     />
   </picture>
 </p>
