@@ -3,6 +3,20 @@
 <h1 align="center">Hi, I'm bal16</h1>
 <p align="center">Full-stack developer who loves experimenting with new things.</p>
 
+<!-- Frameworks & tools (manual list — edit the icons here): https://github.com/tandpfun/skill-icons -->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,typescript,nodejs,bun,mysql,postgres,docker&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,typescript,nodejs,bun,mysql,postgres,docker"
+      alt="Frameworks and tools I use"
+    />
+  </picture>
+</p>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=bal16&color=0d8050&style=flat-square&label=visitors"
