@@ -51,6 +51,30 @@
   </picture>
 </p>
 
+<!-- Auto-crawled language donuts from all my repos -->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bal16&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bal16&theme=github"
+      alt="Languages by repository" width="49%"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bal16&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bal16&theme=github"
+      alt="Languages by commits" width="49%"
+    />
+  </picture>
+</p>
+
 ## Streak
 
 <p align="center">
