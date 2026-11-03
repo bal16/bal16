@@ -25,10 +25,7 @@
   />
 </p> -->
 
-## GitHub Stats & Tech Stack
-
-<!-- Score = the rank circle on the stats card.
-     Top langs auto-crawls languages from all my public repos. -->
+<!-- Score & rank from the stats card. Top langs auto-crawl languages from all repos -->
 <p align="center">
   <picture>
     <source
@@ -76,10 +73,7 @@
   </picture>
 </p>
 
-## Streak & Productive Hours
-
-<!-- Streak: daily contribution run. Productive hours: commit times in Asia/Jakarta.
-     Natural productive-time card is 340x200 — fixed height keeps it compact -->
+<!-- Streak: daily contribution run. Productive hours: commit times in Asia/Jakarta. -->
 <p align="center">
   <picture>
     <source
