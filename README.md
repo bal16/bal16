@@ -3,15 +3,17 @@
 <h1 align="center">Hi, I'm bal16</h1>
 <p align="center">Full-stack developer who loves experimenting with new things.</p>
 
-<!-- Frameworks & tools (manual list — edit the icons here): https://github.com/tandpfun/skill-icons -->
+<!-- Frameworks & tools (manual list — edit the icons here): https://github.com/tandpfun/skill-icons
+     NOTE: commas MUST be %2C — a plain comma inside <source srcset> is parsed as
+     a srcset separator, so GitHub would render only the first icon in dark mode -->
 <p align="center">
   <picture>
     <source
-      srcset="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,typescript,nodejs,bun,mysql,postgres,docker&theme=dark"
+      srcset="https://skillicons.dev/icons?i=laravel%2Creact%2Cnextjs%2Ctailwind%2Ctypescript%2Cnodejs%2Cbun%2Cmysql%2Cpostgres%2Cdocker&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,typescript,nodejs,bun,mysql,postgres,docker"
+      src="https://skillicons.dev/icons?i=laravel%2Creact%2Cnextjs%2Ctailwind%2Ctypescript%2Cnodejs%2Cbun%2Cmysql%2Cpostgres%2Cdocker"
       alt="Frameworks and tools I use"
     />
   </picture>
