@@ -17,12 +17,13 @@
   </picture>
 </p>
 
+<!-- Sementara dinonaktifkan — aktifkan kembali bila diperlukan:
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=bal16&color=0d8050&style=flat-square&label=visitors"
     alt="Profile visitor counter"
   />
-</p>
+</p> -->
 
 ## GitHub Stats & Tech Stack
 
