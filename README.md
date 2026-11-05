@@ -77,7 +77,7 @@
 
 <!-- Streak: daily contribution run. Productive hours: commit times in Asia/Jakarta. -->
 <p align="center">
-  <picture>
+  <!-- <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=bal16&hide_border=true&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
       media="(prefers-color-scheme: dark)"
@@ -86,7 +86,8 @@
       src="https://streak-stats.demolab.com/?user=bal16&hide_border=true"
       alt="Contribution streak" height="170"
     />
-  </picture>
+  </picture> -->
+  <!-- streak service down for now -->
   <picture>
     <source
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bal16&theme=github_dark&timeZone=Asia/Jakarta"
